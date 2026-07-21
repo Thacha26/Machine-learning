@@ -1,18 +1,17 @@
 
-```markdown
+
 # 30 Days of Machine Learning
 
 Un reto personal de 30 días enfocado en aprender y aplicar conceptos clave de **Data Science & Machine Learning** de forma práctica, construyendo proyectos y documentando el proceso paso a paso.
 
----
 
 ## Contexto y Recursos
 
 Este repositorio sigue la guía y metodología compartida por **Alex Xu**, utilizando proyectos prácticos para dominar la manipulación de datos, análisis exploratorio (EDA) y algoritmos de ML.
 
-* **Hoja de Ruta:** [Plan de 30 Días (Google Doc)](https://docs.google.com/document/d/1eZJMMDL7WfGzq0tRNkRAkjXFgPo4QFDIn8XTsRAWINw/mobilebasic)
-* **Inspiración:** [@AlexZXu en GitHub](https://github.com/AlexZXu)
-* **Dataset & Prácticas Base:** [Beginner Data Science Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects/tree/main)
+- **Hoja de Ruta:** [Plan de 30 Días (Google Doc)](https://docs.google.com/document/d/1eZJMMDL7WfGzq0tRNkRAkjXFgPo4QFDIn8XTsRAWINw/mobilebasic)
+- **Inspiración:** [@AlexZXu en GitHub](https://github.com/AlexZXu)
+- **Dataset & Prácticas Base:** [Beginner Data Science Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects/tree/main)
 
 ---
 
