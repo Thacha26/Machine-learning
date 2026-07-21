@@ -6,7 +6,7 @@ Un reto personal de 30 días enfocado en aprender y aplicar conceptos clave de *
 
 ---
 
-## 📌 Contexto y Recursos
+## Contexto y Recursos
 
 Este repositorio sigue la guía y metodología compartida por **Alex Xu**, utilizando proyectos prácticos para dominar la manipulación de datos, análisis exploratorio (EDA) y algoritmos de ML.
 
@@ -26,7 +26,7 @@ Este repositorio sigue la guía y metodología compartida por **Alex Xu**, utili
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 .
