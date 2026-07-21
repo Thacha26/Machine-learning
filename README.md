@@ -1,6 +1,6 @@
 
 ```markdown
-# 🚀 30 Days of Machine Learning
+# 30 Days of Machine Learning
 
 Un reto personal de 30 días enfocado en aprender y aplicar conceptos clave de **Data Science & Machine Learning** de forma práctica, construyendo proyectos y documentando el proceso paso a paso.
 
@@ -16,7 +16,7 @@ Este repositorio sigue la guía y metodología compartida por **Alex Xu**, utili
 
 ---
 
-## 🛠️ Tecnologías y Librerías
+## Tecnologías y Librerías
 
 * **Lenguaje:** Python 3.x
 * **Análisis y Manipulación de Datos:** Pandas, NumPy
@@ -39,13 +39,20 @@ Este repositorio sigue la guía y metodología compartida por **Alex Xu**, utili
 
 ---
 
-## ⚙️ Configuración del Entorno Local
+## Configuración del Entorno Local
 
 Si deseas replicar este repositorio localmente:
 
 1. **Clonar el repositorio:**
+   - Con ssh:
 ```bash
-git clone [https://github.com/TU-USUARIO/Machine-learning.git](https://github.com/TU-USUARIO/Machine-learning.git)
+git clone git@github.com:Thacha26/Machine-learning.git
+cd Machine-learning/Titanic
+
+```
+o si lo prefieres con HTTPS
+```bash
+git clone https://github.com/Thacha26/Machine-learning.git
 cd Machine-learning/Titanic
 
 ```
